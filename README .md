@@ -214,7 +214,6 @@ DepthLab, **Mavinci** organizasyonunda geliştirilen bir bilgisayarlı görü / 
 
 <div align="center">
 
-**DepthLab** · *Computer Vision · Monocular Depth Estimation · Flutter & FastAPI*
 
 [GitHub Repository](https://github.com/mavinci-tr/DepthLab)
 
